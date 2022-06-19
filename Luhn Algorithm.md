@@ -1,5 +1,5 @@
 # Luhn Algorithm
-![For more information, click here](https://en.wikipedia.org/wiki/Luhn_algorithm)
+[For more information, click here](https://en.wikipedia.org/wiki/Luhn_algorithm)
 给出一个信用卡号 `c_number`：
 1. 首先，记下最后一位：`var check`
 2. 然后，从第一位开始：
